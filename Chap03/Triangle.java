@@ -1,5 +1,3 @@
-package Chap03;
-
 public class Triangle {
     double area;
     int height;

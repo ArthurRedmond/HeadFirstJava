@@ -1,5 +1,3 @@
-package Chap03;
-
 public class Hobbits {
     String name;
 
