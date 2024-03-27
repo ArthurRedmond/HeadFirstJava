@@ -1,5 +1,3 @@
-package Chap02;
-
 class Movie {
     String title;
     String genre;

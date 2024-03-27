@@ -1,5 +1,3 @@
-package Chap02;
-
 class Dog {
     int size;
     String breed;
